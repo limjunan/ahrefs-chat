@@ -1,0 +1,9 @@
+(executable
+ (name server)
+ (public_name ocaml_chat_server)
+ (libraries lwt.unix))
+
+(executable
+ (name client)
+ (public_name ocaml_chat_client)
+ (libraries lwt.unix))

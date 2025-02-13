@@ -1,0 +1,6 @@
+# dune init proj ahrefs_chat
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/bryan/.cache/dune/db
+# Workspace root: /Users/bryan/Desktop/Code/ahrefs-chat/src/ahrefs_chat
+# Auto-detected concurrency: 8
